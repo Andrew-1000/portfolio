@@ -1724,7 +1724,15 @@ body {
 	background: #fff;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 19pt;
-	font-weight: 300;
+	Noo,
+	,
+	I went on cookin,
+	,
+	,
+	ate,
+	started laughing,
+	,
+	` font-weight: 300;
 	line-height: 1.75em;
 	color: #000;
 }
@@ -1905,14 +1913,14 @@ article:last-child {
 }
 
 .image.avatar48 {
-	width: 96px;
-	height: 96px;
+	width: 72px;
+	height: 72px;
 	background: #f00;
 }
 
 .image.avatar48 img {
-	width: 96px;
-	height: 96px;
+	width: 72px;
+	height: 72px;
 }
 
 .image.fit {
