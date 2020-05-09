@@ -1913,14 +1913,15 @@ article:last-child {
 }
 
 .image.avatar48 {
-	width: 72px;
-	height: 72px;
-	background: #f00;
+	width: 86px;
+  height: 86px;
+  border-radius: 50%;
 }
 
 .image.avatar48 img {
-	width: 72px;
-	height: 72px;
+	width: 86px;
+  height: 86px;
+  border-radius: 50%;
 }
 
 .image.fit {
