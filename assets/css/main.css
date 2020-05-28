@@ -1923,6 +1923,11 @@ article:last-child {
   height: 86px;
   border-radius: 50%;
 }
+.image.avatar img {
+	width: 86px;
+  height: 86px;
+  border-radius: 5%;
+}
 
 .image.fit {
 	display: block;
