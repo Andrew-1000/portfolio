@@ -1924,8 +1924,8 @@ article:last-child {
   border-radius: 50%;
 }
 .image.avatar img {
-	width: 86px;
-  height: 86px;
+	width: 200px;
+  height: 200px;
   border-radius: 5%;
 }
 
