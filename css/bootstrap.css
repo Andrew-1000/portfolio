@@ -334,8 +334,10 @@ textarea {
 }
 
 a {
-    color: #1B242F;
-    text-decoration: none;
+    color: #ffffff;
+    text-decoration: auto;
+    text-align: center;
+    font-size: small;
 }
 
 a:hover,

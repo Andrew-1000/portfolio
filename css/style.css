@@ -766,13 +766,19 @@ h2.resp-accordion {
 
 .about-text {
     float: left;
-    width: 65%;
+    width: 50%;
+    margin-top: 3%;
+}
+
+.about-proj {
+    float: left;
+    width: 100%;
     margin-top: 3%;
 }
 
 .about-text p {
     font-size: 15px;
-    color: #7e7e7e;
+    color: #3a3434;
     line-height: 1.5em;
 }
 
@@ -1208,7 +1214,7 @@ h2.resp-accordion {
     }
     .about-text p {
         height: 65px;
-        overflow: hidden;
+        overflow: visible;
     }
     .about-sectiongrids {
         padding: 25px 0px;
